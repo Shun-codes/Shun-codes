@@ -44,6 +44,12 @@ Je prends plaisir à apprendre en continu, à expérimenter et à partager mes p
 
 ---
 
+## 📂 Mes projets
+
+- [Projet Bomberman](https://github.com/Shun-codes) — Jeux Bomberman en Java/FX
+
+---
+
 ## 🎯 Ce que j’aime développer
 - Des applications web (back et front)
 - Des scripts et automatisations en Bash
@@ -54,6 +60,7 @@ Je prends plaisir à apprendre en continu, à expérimenter et à partager mes p
 
 ## 📬 Me retrouver
 - Linkedin : https://www.linkedin.com/in/shun-lembrez
+- Mail : Shun.62350@orange.fr
  
 
 ---
