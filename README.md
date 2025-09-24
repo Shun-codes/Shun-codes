@@ -46,7 +46,7 @@ Je prends plaisir à apprendre en continu, à expérimenter et à partager mes p
 
 ## 📂 Mes projets
 
-- [Projet Bomberman](https://github.com/Shun-codes) — Jeux Bomberman en Java/FX
+- [Projet Bomberman](https://github.com/Shun-codes/BombermanJavaFX) — Jeux Bomberman en Java/FX
 
 ---
 
