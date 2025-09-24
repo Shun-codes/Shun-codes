@@ -53,7 +53,6 @@ Je prends plaisir à apprendre en continu, à expérimenter et à partager mes p
 ---
 
 ## 📬 Me retrouver
-- GitHub : [github.com/ShunLembrez](https://github.com/ShunLembrez)  
 - Linkedin : https://www.linkedin.com/in/shun-lembrez
  
 
