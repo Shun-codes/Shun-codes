@@ -17,8 +17,9 @@ Je prends plaisir à apprendre en continu, à expérimenter et à partager mes p
 
 - VS Code pour le dev quotidien et les projets web
 - Eclipse pour Java / JavaFX
-- PhpStorm pour mes projets PHP / Laravel  
-- IDA pour l’analyse et l’exploration plus technique  
+- PhpStorm pour mes projets PHP / Laravel
+- IDA pour l’analyse et l’exploration plus technique
+- PyCharm pour les projets python ou framework
 
 ---
 
