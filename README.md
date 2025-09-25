@@ -12,6 +12,7 @@ Je prends plaisir à apprendre en continu, à expérimenter et à partager mes p
   <img src="https://github.com/user-attachments/assets/1eef0480-fc24-4854-9f7f-7c4a3d3fcae6" alt="Eclipse" width="60"/>
   <img src="https://github.com/user-attachments/assets/79a1f927-72d7-482d-b8ab-9c29430ffd86" alt="PhpStorm" width="60"/>
   <img src="https://github.com/user-attachments/assets/33245ee1-6196-4916-b2c8-b381856b89f6" alt="IDA" width="60"/>
+  <img src="https://github.com/user-attachments/assets/2be67859-16c3-42f7-8143-d842992dfa0f" alt="PyCharm" width="60"/>
 </p>
 
 - VS Code pour le dev quotidien et les projets web
