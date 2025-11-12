@@ -48,8 +48,12 @@ Je prends plaisir à apprendre en continu, à expérimenter et à partager mes p
 
 ## 📂 Mes projets
 
+
+- [Projet LenSymphony](https://github.com/Shun-codes/LenSymphony) — Une bibliothèque simple de synthétiseur musical développée en Java
 - [Projet Bomberman](https://github.com/Shun-codes/BombermanJavaFX) — Jeux Bomberman en Java/FX
+- [Projet L-O-Rhone](https://github.com/Shun-codes/L-O-Rhone) — Application de gestion de tâches
 - [Projet SiteWebFront](https://github.com/Shun-codes/L-Air-du-Cinema) — Site Entreprise Fictive FrontOnly
+
 
 ---
 
