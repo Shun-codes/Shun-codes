@@ -57,7 +57,7 @@ Je prends plaisir à apprendre en continu, à expérimenter et à partager mes p
 - Des applications web (back et front)
 - Des scripts et automatisations en Bash
 - Des jeux en Java/JavaFX et Python
-- Des schémas et documentations claires avec PUML   
+- Des bases de données et requêtes SQL   
 
 ---
 
